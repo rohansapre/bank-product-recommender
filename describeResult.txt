@@ -1,0 +1,79 @@
+        fecha_dato      ncodpers ind_empleado pais_residencia    sexo  \
+count       721558  7.215580e+05       721558          721558  721554   
+unique          13           NaN            5               5       2   
+top     2015-07-28           NaN            N              ES       V   
+freq        716235           NaN       721056          721552  393203   
+mean           NaN  8.052675e+05          NaN             NaN     NaN   
+std            NaN  4.168393e+05          NaN             NaN     NaN   
+min            NaN  1.588900e+04          NaN             NaN     NaN   
+25%            NaN  4.378802e+05          NaN             NaN     NaN   
+50%            NaN  8.972975e+05          NaN             NaN     NaN   
+75%            NaN  1.172604e+06          NaN             NaN     NaN   
+max            NaN  1.423452e+06          NaN             NaN     NaN   
+
+                  age  fecha_alta      ind_nuevo     antiguedad  \
+count   721558.000000      721558  721557.000000  721557.000000   
+unique            NaN        6422            NaN            NaN   
+top               NaN  2015-07-28            NaN            NaN   
+freq              NaN        5997            NaN            NaN   
+mean        40.704697         NaN       0.045061      76.541838   
+std         17.281033         NaN       0.207438    1666.280864   
+min          2.000000         NaN       0.000000 -999999.000000   
+25%         25.000000         NaN       0.000000      22.000000   
+50%         39.000000         NaN       0.000000      48.000000   
+75%         51.000000         NaN       0.000000     135.000000   
+max        126.000000         NaN       1.000000     246.000000   
+
+               indrel       ...        ind_hip_fin_ult1 ind_plan_fin_ult1  \
+count   721557.000000       ...           721557.000000     721557.000000   
+unique            NaN       ...                     NaN               NaN   
+top               NaN       ...                     NaN               NaN   
+freq              NaN       ...                     NaN               NaN   
+mean         1.197479       ...                0.005366          0.009048   
+std          4.394761       ...                0.073057          0.094692   
+min          1.000000       ...                0.000000          0.000000   
+25%          1.000000       ...                0.000000          0.000000   
+50%          1.000000       ...                0.000000          0.000000   
+75%          1.000000       ...                0.000000          0.000000   
+max         99.000000       ...                1.000000          1.000000   
+
+       ind_pres_fin_ult1 ind_reca_fin_ult1 ind_tjcr_fin_ult1  \
+count      721557.000000     721557.000000     721557.000000   
+unique               NaN               NaN               NaN   
+top                  NaN               NaN               NaN   
+freq                 NaN               NaN               NaN   
+mean            0.002118          0.051939          0.045737   
+std             0.045969          0.221904          0.208915   
+min             0.000000          0.000000          0.000000   
+25%             0.000000          0.000000          0.000000   
+50%             0.000000          0.000000          0.000000   
+75%             0.000000          0.000000          0.000000   
+max             1.000000          1.000000          1.000000   
+
+       ind_valo_fin_ult1 ind_viv_fin_ult1 ind_nomina_ult1  ind_nom_pens_ult1  \
+count      721557.000000    721557.000000   721557.000000      721557.000000   
+unique               NaN              NaN             NaN                NaN   
+top                  NaN              NaN             NaN                NaN   
+freq                 NaN              NaN             NaN                NaN   
+mean            0.024137         0.003910        0.055982           0.061922   
+std             0.153474         0.062404        0.229887           0.241013   
+min             0.000000         0.000000        0.000000           0.000000   
+25%             0.000000         0.000000        0.000000           0.000000   
+50%             0.000000         0.000000        0.000000           0.000000   
+75%             0.000000         0.000000        0.000000           0.000000   
+max             1.000000         1.000000        1.000000           1.000000   
+
+        ind_recibo_ult1  
+count     721557.000000  
+unique              NaN  
+top                 NaN  
+freq                NaN  
+mean           0.125265  
+std            0.331020  
+min            0.000000  
+25%            0.000000  
+50%            0.000000  
+75%            0.000000  
+max            1.000000  
+
+[11 rows x 48 columns]
